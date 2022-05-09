@@ -1,0 +1,6 @@
+export const SELECT_MODULE = "select_module"
+export const ADD_MENUS = "add_menus"
+export const TOGGLE_SIDEBAR = "toggle_sidebar"
+export const SET_APP_MODULES = "set_app_modules"
+export const TOGGLE_MENU = "toggle_menu"
+export const SET_ACTIVE_SUBMENU = "set_active_submenu"
